@@ -1,15 +1,21 @@
-## How to Compile
+## How run cargo project
 
-### Gitbash (Without Cargo):
-
-`$ rustc main.rs`
-
-### Gitbash (With Cargo):
+#### Gitbash:
 
 `$ cargo run`
 
+## How to compile
+
+#### Gitbash (With Cargo):
+
+`$ cargo build`
+
+#### Gitbash (Without Cargo):
+
+`$ rustc main.rs`
+
 ## How to run Compiled
 
-### Gitbash:
+#### Gitbash:
 
 `$ ./main.exe`
