@@ -19,3 +19,9 @@
 #### Gitbash:
 
 `$ ./main.exe`
+
+## Additional
+
+#### Build the docs (Using Gitbash):
+
+`$ cargo doc --open`
