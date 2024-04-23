@@ -1,2 +1,8 @@
+#folders
+target
+
+#file extensions
 *.pdb
 *.exe
+
+#files

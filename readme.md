@@ -1,8 +1,12 @@
 ## How to Compile
 
-### Gitbash:
+### Gitbash (Without Cargo):
 
 `$ rustc main.rs`
+
+### Gitbash (With Cargo):
+
+`$ cargo run`
 
 ## How to run Compiled
 
